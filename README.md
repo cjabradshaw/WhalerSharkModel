@@ -1,4 +1,4 @@
-# WhalerSharkModel
+# Whaler Shark Model
 R code and data required for whaler shark (Carcharhinus brachyurus) harvest model.
 
 Citation: Bradshaw, CJA, TAA Prowse, M Drew, BM Gillanders, SC Donnellan, C Huveneers. 2018.
