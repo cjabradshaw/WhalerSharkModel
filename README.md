@@ -1,4 +1,6 @@
 # Whaler Shark Model
+<img align="right" src="trawler.png" alt="trawler" width="200" style="margin-top: 20px">
+
 R code and data required for whaler shark (<em>Carcharhinus brachyurus</em>) harvest model.
 
 Supporting the following paper:
