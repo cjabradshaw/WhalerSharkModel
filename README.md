@@ -6,10 +6,8 @@ Supporting the following paper:
 Bradshaw, CJA, TAA Prowse, M Drew, BM Gillanders, SC Donnellan, C Huveneers. 2018.
 <a href="http://doi.org/10.1093/icesjms/fsy031">Predicting sustainable shark harvests when stock assessments are lacking</a>. <em>ICES Journal of Marine Science</em>. 75: 1591-1601
 
-Professor <a href="http://www.flinders.edu.au">Corey J. A. Bradshaw</a>
-<a href="http://www.flinders.edu.au">Global Ecology</a>
-<a href="http://www.flinders.edu.au">College of Science and Engineering</a>
-<a href="http://www.flinders.edu.au">Flinders University</a>
+Professor <a href="https://scholar.google.com/citations?hl=en&user=1sO0O3wAAAAJ&view_op=list_works&sortby=pubdate">Corey J. A. Bradshaw</a>, <a href="https://globalecologyflinders.com/">Global Ecology</a>, <a href="https://www.flinders.edu.au/college-science-engineering">College of Science and Engineering</a>, <a href="http://www.flinders.edu.au">Flinders University</a>
+<br>
 February 2018
 
 ## Abstract
