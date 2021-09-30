@@ -22,5 +22,5 @@ stock data are missing.
 ## Required R libraries
 
 ## Source files
-
+<code>matrixOperators.r</code>
 
