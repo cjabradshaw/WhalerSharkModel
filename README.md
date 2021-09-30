@@ -1,5 +1,5 @@
 # Whaler Shark Model
-R code and data required for whaler shark (<em>Carcharhinus brachyurus</a>) harvest model.
+R code and data required for whaler shark (<em>Carcharhinus brachyurus</em>) harvest model.
 
 Supporting the following paper:
 
