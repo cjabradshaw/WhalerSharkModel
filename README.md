@@ -5,7 +5,7 @@ R code and data required for whaler shark (<em>Carcharhinus brachyurus</em>) har
 
 Supporting the following paper:
 
-Bradshaw, CJA, TAA Prowse, M Drew, BM Gillanders, SC Donnellan, C Huveneers. 2018.
+<a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, <a href="https://www.adelaide.edu.au/directory/thomas.prowse">TAA Prowse</a>, M Drew, <a href="https://researchers.adelaide.edu.au/profile/bronwyn.gillanders">BM Gillanders</a>, <a href="https://scholar.google.com.au/citations?user=OgUw_RYAAAAJ&hl=en">SC Donnellan</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>. 2018.
 <a href="http://doi.org/10.1093/icesjms/fsy031">Predicting sustainable shark harvests when stock assessments are lacking</a>. <em>ICES Journal of Marine Science</em>. 75: 1591-1601
 
 Professor <a href="https://scholar.google.com/citations?hl=en&user=1sO0O3wAAAAJ&view_op=list_works&sortby=pubdate">Corey J. A. Bradshaw</a> (<a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a>), <a href="https://globalecologyflinders.com/">Global Ecology</a>, <a href="https://www.flinders.edu.au/college-science-engineering">College of Science and Engineering</a>, <a href="http://www.flinders.edu.au">Flinders University</a>
