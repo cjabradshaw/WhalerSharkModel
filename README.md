@@ -15,8 +15,12 @@ Effective fisheries management generally requires reliable data describing the t
 stock data are missing.
 
 ## R code
+<code>whalerSharkPopulationModel.GH.R</code>
 
 ## Data
 
 ## Required R libraries
+
+## Source files
+
 
